@@ -1,3 +1,3 @@
 #Script test
 
-print "ceci est un script simple !"
+print "Ceci est un script simple modifié !"
